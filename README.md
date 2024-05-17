@@ -4,9 +4,9 @@ The PSLab features a __resettable fuse__, designed to protect its sensitive part
 
 ![PSLab drawing with relevant parts highlighted](pslab_drawing.png 'Figure 1')
 
-<span style="color:#D81B60">Cerise</span>: Resettable fuse
-<span style="color:#1E88E5">Blue</span>: Battery charge indicator LEDs
-<span style="color:#FFC107">Yellow</span>: STATUS LED
+<span style="color:#D81B60">Cerise</span>: Resettable fuse\
+<span style="color:#1E88E5">Blue</span>: Battery charge indicator LEDs\
+<span style="color:#FFC107">Yellow</span>: STATUS LED\
 <span style="color:#004D40">Dark cyan</span>: +5V and GND pins
 
 In some cases, the fuse may incorrectly cut power to the PSLab during startup. The symptoms of this are:
