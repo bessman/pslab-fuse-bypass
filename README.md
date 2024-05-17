@@ -27,7 +27,7 @@ The PSLab can be powered by supplying 5 V between the pins labelled __+5V__ and 
 - A fixed 5 V power supply, such as the power supply of a Raspberry Pi.
 - Three _fresh_ alkaline cells connected in series.
 
-The supply voltage much exceed 4.5 V in order for the PSLab to be able to boot. Three alkaline cells just barely achieve this voltage when they are fully charged; if they are used, or have been sitting in a drawer for some time, they may not be able to supply sufficient voltage.
+The supply voltage must exceed 4.5 V in order for the PSLab to be able to boot. Three alkaline cells just barely achieve this voltage when they are fully charged; if they are used, or have been sitting in a drawer for some time, they may not be able to supply sufficient voltage.
 
 __Be careful not to overvolt the PSLab! Supplying a voltage above 5.5 V on the +5V pin may permanently damage the device!__
 
