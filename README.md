@@ -15,7 +15,9 @@ In some cases, the fuse may incorrectly cut power to the PSLab during startup. T
 - The __battery charge indicator LEDs__ flash irregularly.
 - The PSLab emits a high-pitched noise.
 
-![Video showing typical symptoms of misbehaving fuse, solved by method #2](short.mp4)
+Video showing typical symptoms and solution with method #2 below:
+
+https://github.com/bessman/pslab-fuse-bypass/assets/1999462/a4645418-a24e-4036-a7c1-2989632bd9e6
 
 If at least two of these symptoms are present, try bypassing the resettable fuse to resolve the problem. Once the fuse has been bypassed and the boot process has completed, the problem does not reoccur.
 
